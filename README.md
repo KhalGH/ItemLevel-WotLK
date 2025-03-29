@@ -7,7 +7,10 @@
 - Shows **average item level** on the character panel.  
 - Allows you to choose between **original and transmog icons**.  
 
-![ItemLevel UI Preview](https://raw.githubusercontent.com/KhalGH/ItemLevel-WotLK/main/assets/ItemLevelUI.PNG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhalGH/ItemLevel-WotLK/main/assets/ItemLevelUI.PNG" 
+       alt="ItemLevel UI Preview">
+</p>
 
 ## Chat Commands  
 - **`/ilvl`** → Opens the settings frame.  
