@@ -19,7 +19,7 @@
 ## Installation  
 1. [Download](https://github.com/KhalGH/ItemLevel-WotLK/releases/download/v1.0-release/ItemLevel-v1.0.zip) the addon
 2. Extract the **ItemLevel** folder into `World of Warcraft/Interface/AddOns/`.  
-3. Restart the game and enable the addon in the addon list.  
+3. Restart the game and enable the addon.  
 
 ## Information  
 - **Addon Version:** 1.0  
