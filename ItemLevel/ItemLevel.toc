@@ -1,8 +1,0 @@
-## Interface: 30300
-## Title: ItemLevel
-## Version: 1.0
-## Notes: Displays ilvl and border color. Allows you to choose between original and transmog icons.
-## Author: Khal
-## SavedVariables: ilvlConfig
-
-ItemLevel.lua
