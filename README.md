@@ -22,6 +22,6 @@
 3. Restart the game and enable the addon in the addon list.  
 
 ## Information  
-- **Version:** 1.0  
+- **Addon Version:** 1.0  
 - **Game Version:** 3.3.5a (WotLK)  
 - **Author:** Khal  
