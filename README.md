@@ -1,4 +1,4 @@
-# ItemLevel v1.0  
+# ItemLevel
 
 **ItemLevel** is a World of Warcraft addon for **Wrath of the Lich King (WotLK) 3.3.5a**  
 
