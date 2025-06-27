@@ -270,8 +270,8 @@ function addon:ConfigUI()
             dialogBG:SetAlpha(0.75)
         end  
         -- Define Title
-        f.title:SetFont("Fonts\\FRIZQT__.TTF", 18, "OUTLINE")  
-        f.title:SetTextColor(1, 1, 1, 1)  
+        f.title:SetFont("Fonts\\FRIZQT__.TTF", 18)  
+        f.title:SetTextColor(1, 0.82, 0)  
         f.title:ClearAllPoints()
         f.title:SetPoint("TOPLEFT", titleBG, "TOPLEFT", 0, 0)
         f.title:SetPoint("BOTTOMRIGHT", titleBG, "BOTTOMRIGHT", -12*localScale, 1.5*localScale)
