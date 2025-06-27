@@ -14,7 +14,6 @@
 
 ## Chat Commands  
 - **`/ilvl`** → Opens the settings frame.  
-- **`/ilvl help`** → Prints available commands in chat.  
 
 ## Installation  
 1. [Download](https://github.com/KhalGH/ItemLevel-WotLK/releases/download/v1.0-release/ItemLevel-v1.0.zip) the addon
