@@ -8,7 +8,7 @@
 - Allows you to choose between **original and transmog icons**.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhalGH/ItemLevel-WotLK/main/assets/ItemLevelUI.PNG" 
+  <img src="https://raw.githubusercontent.com/KhalGH/ItemLevel-WotLK/assets/assets/ItemLevelUI.PNG" 
        alt="ItemLevel UI Preview">
 </p>
 
